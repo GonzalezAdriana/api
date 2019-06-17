@@ -1,0 +1,19 @@
+{
+  "name": "curso",
+  "version": "1.0.0",
+  "description": "taller de hapi",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GonzalezAdriana/api.git"
+  },
+  "author": "\"Adriana\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GonzalezAdriana/api/issues"
+  },
+  "homepage": "https://github.com/GonzalezAdriana/api#readme"
+}
